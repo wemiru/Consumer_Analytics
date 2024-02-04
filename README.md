@@ -1,4 +1,4 @@
-Market Analytics 
+Consumer Analytics 
 
 The objective of this  project is to study the customers behavior and classify them based on their demand and supply of market
 So, customer segmentation used to maximize the  income of a vender and satisfaction of customer. To perform  this iFood dataset and python is used based on 
